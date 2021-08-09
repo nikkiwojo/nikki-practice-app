@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-    return "Welcome to my spoopy website! \U0001f47b"
+    return "\U0001f47b NIKKI \U0001f47b"
